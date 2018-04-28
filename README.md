@@ -1,0 +1,2 @@
+# FourTuplesScoreInterface
+protein-protein-interface
